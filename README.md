@@ -1,6 +1,6 @@
 # grocery_app
 
-A new Flutter project.
+🛒 Grocery App – A simple app where users can browse grocery items, add them to their cart, and view their cart. No checkout, just an easy way to keep track of selected items! 🥦📦
 
 ## Getting Started
 
